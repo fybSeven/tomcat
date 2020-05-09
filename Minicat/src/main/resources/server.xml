@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <service>
+        <connector port="8080"/>
+        <engine>
+            <host name="localhost" appBase="D:/学习/作业/阶段二/模块1/tomcat/webapps"/>
+        </engine>
+    </service>
+</server>
